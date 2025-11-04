@@ -1,6 +1,6 @@
 <h3><b>TypeScript Console Todo App</b></h3>
 A command-line-based Todo List Application built with TypeScript and Node.js to practice TypeScript fundamentals like Arrays,types,interfaces,Functions,readline <br>
-🚀 <b>Features</b><br>
+<h3>🚀 <b>Features</b></h3><br>
 🧩 1. Add Task<br>
 📋 2.List All Todo task<br>
 ✏️ 3. Edit Task<br>
@@ -8,19 +8,19 @@ A command-line-based Todo List Application built with TypeScript and Node.js to 
 💾 5. Prevent Duplicate Tasks<br>
 ⛔ 6. Input Validation & Error Handling<br>
 
-🧠 <b>Concepts Learned</b><br>
+<h3>🧠 <b>Concepts Learned</b></h3><br>
 -TypeScript types, interfaces, and enums<br>
 -Using functions and arrays<br>
 -Modular code structure with imports/exports<br>
 -Readline-sync for CLI input<br>
 -TypeScript compilation workflow (tsc)<br>
 
-🧰<b> Tech Stack</b><br>
+<h3>🧰<b> Tech Stack</b></h3><br>
 -Language: TypeScript<br>
 -Runtime: Node.js<br>
 -Input Library: readline-sync<br>
 
-<h1><b>OUTPUT</b></h1>
+<h2><b>Output</b></h2>
 <img width="1330" height="610" alt="Screenshot 2025-11-04 221630" src="https://github.com/user-attachments/assets/d816fd63-9dbf-465b-be8b-06d65ecb7b77" />
 <img width="793" height="247" alt="Screenshot 2025-11-05 001810" src="https://github.com/user-attachments/assets/1a0277c7-365d-47b7-8cfe-22e755bcb367" />
 <img width="708" height="242" alt="Screenshot 2025-11-05 001828" src="https://github.com/user-attachments/assets/6aabf727-55f9-4438-9953-9d8964a0ff78" />
