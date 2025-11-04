@@ -75,7 +75,7 @@ function edit(item: number): void {
 function deletTodo(id: number): void {
   const todo = todos.find((todo) => todo.id === id);
 
-  if (!id) {
+  if (!todo) {
     console.log("Id doesn't Exit ! ");
     return;
   } else if (todo?.completed === "no") {
